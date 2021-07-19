@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1eaac433_002D84b2_002D48f0_002Dad1d_002Dfb950a93ab5c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCircleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::DE617443-FA03-4FBB-BA29-A03AD72DACA8::.NETCoreApp,Version=v5.0::FiguresTests.CircleUnitTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::DE617443-FA03-4FBB-BA29-A03AD72DACA8::.NETCoreApp,Version=v5.0::FiguresTests.TriangleUnitTests.TestExceptionOnNegativeSide&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::DE617443-FA03-4FBB-BA29-A03AD72DACA8::.NETCoreApp,Version=v5.0::FiguresTests.TriangleUnitTests.TestExceptionOnZeroSide&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Source\Repos\Others\MindboxTask\FiguresTests" Presentation="&amp;lt;FiguresTests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
